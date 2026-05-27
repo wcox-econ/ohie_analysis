@@ -14,7 +14,6 @@ dataset with monthly crime statistics, and then calculate the DiD bias in
 our event study replication.
 
 
-================================================================================
 MODULE 1: replicate-amy-sarah.do
 ================================================================================
 
@@ -43,7 +42,6 @@ Outputs
 - bias_results.csv
 
 
-================================================================================
 MODULE 2: monthly_crime_stats.do
 ================================================================================
 
@@ -83,7 +81,7 @@ Outputs
 - cleaned_data/monthly_crime_stats_wide.dta
 - cleaned_data/sanity_check_monthly_crime.dta
 
-================================================================================
+
 MODULE 3: event_study_bias.do
 ================================================================================
 
