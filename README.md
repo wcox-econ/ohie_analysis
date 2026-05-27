@@ -112,9 +112,6 @@ Inputs
 
 Outputs
 -------
-- cleaned_data/monthly_crime_stats_long.dta
-- cleaned_data/monthly_crime_stats_wide.dta
-- cleaned_data/sanity_check_monthly_crime.dta
 - BetterDDwithIV_event_study.csv
 - BetterDDwithIV_event_study_period.csv
 
